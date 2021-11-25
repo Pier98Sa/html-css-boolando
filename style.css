@@ -14,7 +14,7 @@
 .product{
     position: relative;
     display: inline-block;
-
+    margin: auto 7px;
 }
 img{
     width: 350px;  
