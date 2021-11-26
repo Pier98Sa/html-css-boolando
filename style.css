@@ -15,10 +15,12 @@
     position: relative;
     display: inline-block;
     margin: auto 7px;
+    width: 31%;
 }
 img{
-    width: 350px;  
+    width: 100%;
 }
+
 
 /*regole per effeto hover*/
 .foto2{
