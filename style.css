@@ -33,9 +33,8 @@ img{
     z-index: 2;
 }
 
-.foto1:hover {
+.foto-prodotto:hover .foto1{
     z-index: 0;
-    transition-delay: 0.1s;
 }
 /*fine regole per effetto hover*/
 
